@@ -70,14 +70,16 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,linux&theme=light" height="48" />
 <br/>
+
 <img src="https://img.shields.io/badge/VPS-FFFFFF?style=flat-square&logo=serverfault&logoColor=000" height="25" />
-<img src="https://img.shields.io/badge/WebHooks-FFFFFF?style=flat-square&logo=webhooks&logoColor=000" height="25" />
-<img src="https://img.shields.io/badge/Power_Automate-FFFFFF?style=flat-square&logo=powerautomate&logoColor=000" height="25" />
-<img src="https://img.shields.io/badge/Apps_Script-FFFFFF?style=flat-square&logo=google&logoColor=000" height="25" />
+<img src="https://img.shields.io/badge/WebHooks-FFFFFF?style=flat-square&logo=ifttt&logoColor=000" height="25" />
+<img src="https://img.shields.io/badge/Power_Automate-FFFFFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDA3OGYxIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHdpZHRoPSI1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE4My41IDI1NmMwLTIuMy45LTQuNiAyLjUtNi4ybDE1MC0xMTVjMy43LTIuOCA5LjMtLjIgOS4zIDQuMnYyMjkuOGMwIDQuMy01LjUgNy03LjcgNC4ybC0xNTAtMTE0Yy0xLjYtMS4yLTIuNS0zLjEtMi41LTUuM3oiLz48L3N2Zz4=" height="25" />
+<img src="https://img.shields.io/badge/Apps_Script-FFFFFF?style=flat-square&logo=googleappsscript&logoColor=000" height="25" />
 <img src="https://img.shields.io/badge/n8n-FFFFFF?style=flat-square&logo=n8n&logoColor=000" height="25" />
-<img src="https://img.shields.io/badge/Open%20Source-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=000" height="25" />
+<img src="https://img.shields.io/badge/Open%20Source-FFFFFF?style=flat-square&logo=github&logoColor=000" height="25" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-FFFFFF?style=flat-square&logo=openai&logoColor=000" height="25" />
-<img src="https://img.shields.io/badge/Tools-FFFFFF?style=flat-square&logo=toolbox&logoColor=000" height="25" />
+<img src="https://img.shields.io/badge/Tools-FFFFFF?style=flat-square&logo=adguard&logoColor=000" height="25" />
+
 
 </div>
 
