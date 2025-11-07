@@ -29,9 +29,6 @@
     <a href="https://linkedin.com/in/jotaflows" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000" />
     </a>
-    <a href="https://github.com/jotaflows" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000" />
-    </a>
     <a href="https://www.youtube.com/@jotaflows" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000" />
     </a>
